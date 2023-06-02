@@ -83,7 +83,7 @@ ul {
   object-fit: fill;
 }
 /* ----------------------------- */
-/* ----------------------------- */
+/* -----------nav formatting---------------- */
 nav a {
   text-decoration: none;
   color: black;
@@ -109,8 +109,8 @@ nav {
   color: #805533;
 
 }
-/* --------------------------- */
-/* ----------------------------- */
+/* ---------end of nav------------------ */
+/* ----------welcome section formatting------------------- */
 .welcome-section {
   display: block;
   flex-direction: column;
@@ -146,8 +146,8 @@ nav {
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
-/* ------------------------ */
-/* ----------------------------- */
+/* -------end of welcome section----------------- */
+/* ---------projects formatting-------------------- */
 .projects {
   text-align: center;
   padding: 1rem 1rem;
@@ -161,8 +161,8 @@ nav {
   font-family: "Trirong", serif;
   color: white;
 }
-/* -------------------------- */
-/* -------------------------- */
+/* --------end of projects------------------ */
+/* ---------contacts formatting----------------- */
 .contact{
   display: flex;
   flex-direction: column;
@@ -208,8 +208,8 @@ transform: translateY(-7px)
 .contact > div > a:active{
   color: black;
 }
-/* -------------------------- */
-/* -------------------------- */
+/* --------end of contacts------------------ */
+/* ---------footer formatting----------------- */
 .footer {
     background-color: #eff5f5;
   padding: 2rem;
